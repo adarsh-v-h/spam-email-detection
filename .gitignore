@@ -1,0 +1,17 @@
+# Ignore virtual environments
+ml_env/
+venv/
+.env/
+
+# Ignore Python junk
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.zip
+*.csv
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+# Ignore OS stuff
+.DS_Store
+Thumbs.db
