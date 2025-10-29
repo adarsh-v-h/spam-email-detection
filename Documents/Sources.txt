@@ -1,0 +1,3 @@
+Here is Google drive link for the same data and many similar: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbG1UTl9fcEhNWG85NlNaZjNLYkZQbFVaSWtJd3xBQ3Jtc0tueXVWYVBDX3ZZZ0Qtb3o3OUVDVFc3WXkzSUZBblhOSFhkRUpVVkd5V01rZDFUd3g4Z1lDbl9OTlRxT0s2bXlWY3FJNlJxV3lyYS1LQWYwRjl5Nnl3dnl3Nk1pbVhERlZYSXlkckk5bGpVbjBkZm5EZw&q=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1NEs0rpFelfzSWAJ6y832EDpW9ImQH4QJ%3Fusp%3Dsharing&v=LcWFedjaR4Q
+For more datasets, you can find them on hugging face: https://huggingface.co/datasets/UniqueData/email-spam-classification/blob/main/email_spam.csv
+To understand how Logistic Regression model works: https://en.wikipedia.org/wiki/Logistic_regression
